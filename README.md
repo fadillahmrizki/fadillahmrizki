@@ -1,16 +1,41 @@
-## Hi there 👋
+### 👋 Halo! Saya Fadillah M. Rizki
 
-<!--
-**fadillahmrizki/fadillahmrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nama : Mhd. Rizky Fadillah
+Universitas Malikussaleh
+Jurusan : Sistem Informasi
+---
 
-Here are some ideas to get you started:
+### skills 🛠️ Teknologi & Tools yang Saya Kuasai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+  </p>
+
+---
+
+### 📊 Statistik
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fadillahmrizki&show_icons=true&theme=tokyonight&locale=id" alt="fadillahmrizki" />
+</p>
+
+---
+
+### 📬 Contact Me
+
+<p align="left">
+<a href="mailto:fadillahmrizki60@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="fadillahmrizki" height="30" width="40" />
+</a>
+</p>
